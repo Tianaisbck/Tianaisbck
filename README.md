@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tianaisbck
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...coding
+- 🌱 I’m currently learning ...data science and programming
+- 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... christianagodday8@gmail.com
 
 <!---
